@@ -1,4 +1,6 @@
 ### Ingenieur DevOps & DevNet
+Je travaille actuellement à l'université Nongo Conakry en qualité d'instructeur Reseau et Microsoft office
+
 <!--
 **Laminedassy/laminedassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
