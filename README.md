@@ -1,8 +1,5 @@
-### ADMINISTRATEUR RESEAUX ET SYSTEME 
-# Mamadou Lamine DIALLO
 
-- **Date de naissance**: 16 avril 1992 à Labé
-- **Adresse**: Wanindara, commune de Ratoma
+# Mamadou Lamine DIALLO
 - **Téléphone**: +224 622 344 407 / +224 663 476 851
 - **Email**: laminedacy@gmail.com
 
