@@ -4,7 +4,6 @@
 - **Email**: laminedacy@gmail.com
 - **Localisation**: Conakry, Guinée
 - **LinkedIn**: [linkedin.com/in/lamine-diallo-0b4a34b7/](https://www.linkedin.com/in/lamine-diallo-0b4a34b7/)
-- **GitHub**: [github.com/Laminedassy](https://github.com/Laminedassy)
 
 ## Profil
 
